@@ -2,5 +2,5 @@
 	"ip":"Better_Chill_Craft.aternos.me",
 	"port": "38567",
 	"name": "nevermind",
-	"command": "/register iammobo"
+	"command": "register iammobo"
 }
